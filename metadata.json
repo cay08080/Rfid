@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of REIS Vision Pro - Distância & RFID",
+  "description": "Scanner industrial de alta performance para leitura de etiquetas REIS via rádio ou visão computacional de longa distância.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
